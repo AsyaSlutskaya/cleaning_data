@@ -5,6 +5,7 @@
 tidy_data
 
 |Variable|Comments|
+| ------------- |-------------| 
 |ActivityName|	name ofactivity subject performed (LAYING,SITTING,STANDING,WALKING,WALKING_DOWNSTAIRS,WALKING_UPSTAIRS)|
 |timeBodyAccelerometerMeanX	| mean oftBodyAcc-mean()-X|
 |timeBodyAccelerometerMeanY	| mean oftBodyAcc-mean()-Y|

@@ -38,7 +38,7 @@ The script first downloads and unzips the dataset from the above url. The script
 
 ## Output
 
-Tidy dataset: tidy.txt
+Tidy dataset: tidy_data.txt
 ## Code Book
 
 CodeBook.md: describes the variables, the data, and any transformations or work that you performed to clean up the data
